@@ -49,73 +49,110 @@
       "image": "http://dummyimage.com/157x152.png/cc0000/ffffff",
       "name": "MSI GS66 Stealth",
       "price": "$1699"
-    },
-    {
-      "image": "http://dummyimage.com/219x187.png/dddddd/000000",
-      "name": "Gigabyte Aero 15",
-      "price": "$1799"
-    },
-    {
-      "image": "http://dummyimage.com/179x125.png/cc0000/ffffff",
-      "name": "Huawei MateBook X Pro",
-      "price": "$1899"
-    },
-    {
-      "image": "http://dummyimage.com/120x223.png/dddddd/000000",
-      "name": "LG Gram 17",
-      "price": "$1999"
-    },
-    {
-      "image": "http://dummyimage.com/150x246.png/ff4444/ffffff",
-      "name": "Dell XPS 13",
-      "price": "$2099"
-    },
-    {
-      "image": "http://dummyimage.com/183x130.png/ff4444/ffffff",
-      "name": "HP Envy x360",
-      "price": "$2199"
-    },
-    {
-      "image": "http://dummyimage.com/138x140.png/5fa2dd/ffffff",
-      "name": "Lenovo Yoga C940",
-      "price": "$2299"
-    },
-    {
-      "image": "http://dummyimage.com/200x236.png/dddddd/000000",
-      "name": "Asus ROG Zephyrus G14",
-      "price": "$2399"
-    },
-    {
-      "image": "http://dummyimage.com/169x241.png/dddddd/000000",
-      "name": "Alienware m15 R6",
-      "price": "$2499"
-    },
-    {
-      "image": "http://dummyimage.com/110x205.png/5fa2dd/ffffff",
-      "name": "MSI Creator Z16",
-      "price": "$2599"
-    },
-    {
-      "image": "http://dummyimage.com/235x182.png/dddddd/000000",
-      "name": "Razer Blade Stealth 13",
-      "price": "$2699"
     }
   ],
   "cellphones": [
     {
       "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
-      "name": "Lenovo ThinkPad E14",
+      "name": "Galaxy S22",
       "price": "$799"
     },
     {
       "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
-      "name": "Samsung",
+      "name": "iPhone 14",
       "price": "$899"
     },
     {
       "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
-      "name": "Xiaomi",
+      "name": "Redmi Note 11",
       "price": "$999"
+    },
+    {
+      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "name": "Pixel 7",
+      "price": "$699"
+    },
+    {
+      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "name": "OnePlus 10",
+      "price": "$849"
+    },
+    {
+      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "name": "Huawei P50",
+      "price": "$899"
+    },
+    {
+      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "name": "Sony Xperia 5",
+      "price": "$749"
+    },
+    {
+      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "name": "LG V90",
+      "price": "$799"
+    },
+    {
+      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "name": "Nokia X20",
+      "price": "$649"
+    },
+    {
+      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "name": "Motorola Edge+",
+      "price": "$899"
+    }
+  ],
+  "tablets": [
+    {
+      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "name": "Galaxy Tab S8",
+      "price": "$799"
+    },
+    {
+      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "name": "iPad Air Pro",
+      "price": "$899"
+    },
+    {
+      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "name": "Redmi Pad Pro",
+      "price": "$999"
+    },
+    {
+      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "name": "Google Nexus 10",
+      "price": "$699"
+    },
+    {
+      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "name": "OneTab",
+      "price": "$849"
+    },
+    {
+      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "name": "Huawei MatePad Pro",
+      "price": "$899"
+    },
+    {
+      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "name": "Sony Xperia Tablet Z",
+      "price": "$749"
+    },
+    {
+      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "name": "LG G Pad",
+      "price": "$799"
+    },
+    {
+      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "name": "Nokia Lumia Tablet",
+      "price": "$649"
+    },
+    {
+      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "name": "Motorola Tab Max",
+      "price": "$899"
     }
   ]
 }
