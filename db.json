@@ -100,5 +100,10 @@
       "name": "Razer Blade Stealth 13",
       "price": "$2699"
     }
-  ]
+  ],
+  "cellphone": {
+    "image": "http://dummyimage.com/235x182.png/dddddd/000000",
+    "name": "Razer Blade Stealth 13",
+    "price": "$2699"
+  }
 }
