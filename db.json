@@ -1,7 +1,7 @@
 {
   "computers": [
     {
-      "image": "./img/dell inspiron 15 3000.jpg",
+      "image": "https://drive.google.com/drive/u/0/home",
       "name": "Dell Inspiron 15 3000",
       "price": "$799"
     },
