@@ -1,7 +1,7 @@
 {
   "computers": [
     {
-      "image": "C:UsersALDODesktopchllg19Dell Inspiron 15 3000.avif",
+      "image": "./img/Dell Inspiron 15 3000.avif",
       "name": "Dell Inspiron 15 3000",
       "price": "$799"
     },
