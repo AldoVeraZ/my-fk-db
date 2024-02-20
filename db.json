@@ -1,7 +1,7 @@
 {
   "computers": [
     {
-      "image": "https://m.media-amazon.com/images/I/61mFsTOtVVL._AC_SL1500_.jpg",
+      "image": "./img/dell inspiron 15 3000.jpg",
       "name": "Dell Inspiron 15 3000",
       "price": "$799"
     },
