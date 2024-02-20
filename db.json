@@ -1,156 +1,156 @@
 {
   "computers": [
     {
-      "image": "/img/dell inspiron 15 3000.jpg",
+      "image": "https://m.media-amazon.com/images/I/61mFsTOtVVL._AC_SL1500_.jpg",
       "name": "Dell Inspiron 15 3000",
       "price": "$799"
     },
     {
-      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "image": "https://d1pc5hp1w29h96.cloudfront.net/catalog/product/8/V/8VV69LA-1_T1679650550.png",
       "name": "HP Pavilion x360",
       "price": "$899"
     },
     {
-      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "image": "https://m.media-amazon.com/images/I/51nXl3fwlNL._AC_UF1000,1000_QL80_.jpg",
       "name": "Lenovo ThinkPad E14",
       "price": "$999"
     },
     {
-      "image": "http://dummyimage.com/238x179.png/dddddd/000000",
+      "image": "https://falabella.scene7.com/is/image/Falabella/16741984_1?wid=1500&hei=1500&qlt=70",
       "name": "Acer Aspire 5",
       "price": "$1099"
     },
     {
-      "image": "http://dummyimage.com/188x234.png/cc0000/ffffff",
+      "image": "https://dlcdnwebimgs.asus.com/gain/8b523254-8a8a-484e-ba76-90169d964b87/w800",
       "name": "Asus VivoBook S15",
       "price": "$1199"
     },
     {
-      "image": "http://dummyimage.com/197x175.png/cc0000/ffffff",
+      "image": "https://www.reuse.cl/cdn/shop/products/67951480681337_1s_1200x1200.jpg?v=1680632259",
       "name": "Apple MacBook Air",
       "price": "$1299"
     },
     {
-      "image": "http://dummyimage.com/115x144.png/dddddd/000000",
+      "image": "https://falabella.scene7.com/is/image/Falabella/gsc_119677952_2439865_1?wid=1500&hei=1500&qlt=70",
       "name": "Microsoft Surface Laptop 4",
       "price": "$1399"
     },
     {
-      "image": "http://dummyimage.com/161x145.png/5fa2dd/ffffff",
+      "image": "https://falabella.scene7.com/is/image/Falabella/16740418_1?wid=1500&hei=1500&qlt=70",
       "name": "Samsung Galaxy Book Pro",
       "price": "$1499"
     },
     {
-      "image": "http://dummyimage.com/153x232.png/ff4444/ffffff",
+      "image": "https://p4-ofp.static.pub/fes/cms/2023/03/17/l9dxdz668k7usuqh2pauvija2t1zkl091142.png",
       "name": "Razer Blade 15",
       "price": "$1599"
     },
     {
-      "image": "http://dummyimage.com/157x152.png/cc0000/ffffff",
+      "image": "https://press.razer.com/wp-content/uploads/2018/10/00.png",
       "name": "MSI GS66 Stealth",
       "price": "$1699"
     }
   ],
   "cellphones": [
     {
-      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "image": "https://ongpng.com/wp-content/uploads/2023/04/7-44.png",
       "name": "Galaxy S22",
       "price": "$799"
     },
     {
-      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "image": "https://w7.pngwing.com/pngs/60/414/png-transparent-iphone-14.png",
       "name": "iPhone 14",
       "price": "$899"
     },
     {
-      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "image": "https://catalogo.movistar.cl/media/catalog/product/cache/ebb05d1087fcce3e5d25fdf0f48435b2/x/i/xiaomi_2_1_3.png",
       "name": "Redmi Note 11",
       "price": "$999"
     },
     {
-      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "image": "https://www.gsmpro.cl/cdn/shop/files/google-pixel-7_800x.jpg?v=1700240800",
       "name": "Pixel 7",
       "price": "$699"
     },
     {
-      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "image": "https://ongpng.com/wp-content/uploads/2023/04/3-38.png",
       "name": "OnePlus 10",
       "price": "$849"
     },
     {
-      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/p50/list/black.png",
       "name": "Huawei P50",
       "price": "$899"
     },
     {
-      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "image": "https://www.gsmpro.cl/cdn/shop/files/sony-xperia-1-v_1200x.jpg?v=1686762410",
       "name": "Sony Xperia 5",
       "price": "$749"
     },
     {
-      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2018/01/LG_V30_900.jpg",
       "name": "LG V90",
       "price": "$799"
     },
     {
-      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "image": "https://omnichannelimages.global.ssl.fastly.net/prod/dsv/pop/POP-6438409060341-NO_420_1.JPG",
       "name": "Nokia X20",
       "price": "$649"
     },
     {
-      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "image": "https://tiendaempresas.entel.cl/media/catalog/product/cache/e83b319fe15d087a014efa16f11c0f36/g/o/google_shopping_-_moto_edge_40_negro_-_v_1.jpg",
       "name": "Motorola Edge+",
       "price": "$899"
     }
   ],
   "tablets": [
     {
-      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "image": "https://image-us.samsung.com/SamsungUS/home/mobile/tablets/6132022/GalaxyTabS8_Combo_PinkGold_1600x1200.jpg?$product-details-jpg$",
       "name": "Galaxy Tab S8",
       "price": "$799"
     },
     {
-      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "image": "https://home.ripley.cl/store/Attachment/WOP/D113/2000390304571/2000390304571_2.jpg",
       "name": "iPad Air Pro",
       "price": "$899"
     },
     {
-      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "image": "https://catalogo.movistar.cl/media/catalog/product/cache/ebb05d1087fcce3e5d25fdf0f48435b2/3/7/370x700_xiaomi_tablet_redmi_pad_se_4_128gb_1.png",
       "name": "Redmi Pad Pro",
       "price": "$999"
     },
     {
-      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "image": "https://www.techadvisor.com/wp-content/uploads/2022/06/Nexus_10_2013_leak.jpg?quality=50&strip=all",
       "name": "Google Nexus 10",
       "price": "$699"
     },
     {
-      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "image": "https://p2-ofp.static.pub//fes/cms/2024/01/18/ic21qcuiqdk8271dhzj5bpohr88pa3294316.png",
       "name": "OneTab",
       "price": "$849"
     },
     {
-      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "image": "https://img01.huaweifile.com/sg/ms/cl/pms/product/6941487228751/428_428_8B6DFD7256DF8B80B027103DDCDC04DE4D60905CA1CF007Amp.png",
       "name": "Huawei MatePad Pro",
       "price": "$899"
     },
     {
-      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "image": "https://media.solotodo.com/media/products/tablet-sony-xperia-z-sgp311u1-b-101-inch-16gb-tablet_MLA-F-4738234975_072013.jpg",
       "name": "Sony Xperia Tablet Z",
       "price": "$749"
     },
     {
-      "image": "http://dummyimage.com/244x236.png/cc0000/ffffff",
+      "image": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/tablet/lgv522_argsku_enci_ca_en_c/MC_thumb_450.jpg",
       "name": "LG G Pad",
       "price": "$799"
     },
     {
-      "image": "http://dummyimage.com/146x172.png/cc0000/ffffff",
+      "image": "https://m.media-amazon.com/images/I/81Qux7PMkyL.jpg",
       "name": "Nokia Lumia Tablet",
       "price": "$649"
     },
     {
-      "image": "http://dummyimage.com/192x120.png/5fa2dd/ffffff",
+      "image": "https://m.media-amazon.com/images/I/51hnwNY-nKL._AC_UF1000,1000_QL80_.jpg",
       "name": "Motorola Tab Max",
       "price": "$899"
     }
